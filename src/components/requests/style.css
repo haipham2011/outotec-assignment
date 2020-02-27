@@ -1,0 +1,14 @@
+.create-request{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: 100 !important;
+}
+
+.alert{
+    width: 50%;
+}
+
+.required{
+    margin-right: -42px;
+}
